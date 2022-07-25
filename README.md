@@ -1,1 +1,1 @@
-# C
+# Coleção de programas em C
